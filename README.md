@@ -14,4 +14,4 @@ This platform strives to improve your yoga journey with a smooth,
 enjoyable experience, regardless of your level of experience.
 <br>
 
-Website :- https://gouravsinghdosad.github.io/Yogalax-Website/
+Website :- https://gouravsinghdosad.github.io/Yogalax-Webpage/
