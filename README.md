@@ -1,5 +1,5 @@
 
-YOGALAX is an easy-to-use website for yoga aficionados that
+YOGALAX is an easy-to-use webpage for yoga aficionados that
 <br>
 offers in-depth tutorials and engaging content.
 <br>
