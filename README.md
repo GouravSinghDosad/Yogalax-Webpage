@@ -1,5 +1,6 @@
 
-YOGALAX is an easy-to-use website for yoga aficionados that offers in-depth tutorials and engaging content.
+YOGALAX is an easy-to-use website for yoga aficionados that
+offers in-depth tutorials and engaging content.
 <br>
 With the use of JavaScript for interactivity, CSS for styling, and HTML for structure, YOGALAX provides guides, advice, and a lively community forum.
 <br>
