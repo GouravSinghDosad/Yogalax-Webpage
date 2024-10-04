@@ -4,14 +4,5 @@ YOGALAX is an easy-to-use webpage for yoga aficionados that
 offers in-depth tutorials and engaging content.
 <br>
 
-With the use of JavaScript for interactivity, CSS for styling, 
-<br>
-and HTML for structure, YOGALAX provides guides, advice, and a lively community forum.
-<br>
 
-This platform strives to improve your yoga journey with a smooth, 
-<br>
-enjoyable experience, regardless of your level of experience.
-<br>
-
-Website :- https://gouravsinghdosad.github.io/Yogalax-Webpage/
+![dashboard](https://github.com/user-attachments/assets/e176c886-1a4e-4830-86d9-c16f29adca9a)
